@@ -10,5 +10,26 @@
 <fanart></fanart>
 <link>rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim</link>
 </item>
+
 <item>
+<title>Europa Plus</title>
+<thumbnail>http://www.larocca.lv/engine/client/content/user_files/5cf3c6dfb8992d0dc8fa8c2196b57f8b.gifg</thumbnail>
+<fanart></fanart>
+<link>rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp</link>
+</item>
+
+<item>
+<title>PIK TV</title>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/1/11/Logo_PIK_TV.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://fms.pik-tv.com/live/piktv2pik2tv.flv</link>
+</item>
+<item>
+<title>Heart TV </title>
+<thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2012/41/heart-tv-is-here-1349976697.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart</link>
+</item>
+
+
 

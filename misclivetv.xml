@@ -33,4 +33,23 @@
 <fanart></fanart>
 <link>rtmp://198.143.152.18/live/miamitvhd</link>
 </item>
+<item>
+<title>WILLAX Tv - Spanish </title>
+<thumbnail>http://1.bp.blogspot.com/-jIrf1flRjHI/T0JqOP-8dxI/AAAAAAAAACA/_PpKY7KSZ_k/s1600/willax-tv.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://willax.mediastream.pe/vv_willax/livestream</link>
+</item>
+<item>
+<title>M6 News - Russian </title>
+<thumbnail>http://i226.photobucket.com/albums/dd48/wublili/tv/m6_ba1.jpg</thumbnail>
+<fanart></fanart>
+<link>rtmp://tv.webport.tv/promo2/m6</link>
+</item>
+<item>
+<title>The Florida Channel </title>
+<thumbnail>http://thefloridachannel.org/images/logo.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://webcasting.thefloridachannel.org/live/tvweb1</link>
+</item>
+
 
