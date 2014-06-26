@@ -15,3 +15,15 @@
 <fanart></fanart>
 <link>https://raw.githubusercontent.com/OffsideStreams/freeview/master/livesports.xml</link>
 </dir>
+<dir>
+<name>[COLOR ffff0000]Music Channels[/COLOR]</name>
+<thumbnail>http://www.real.com/resources/wp-content/uploads/2013/05/streaming-MP41.jpg</thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/OffsideStreams/freeview/master/music.xml</link>
+</dir>
+<dir>
+<name>[COLOR ffff0000]Misc Live TV Channels[/COLOR]</name>
+<thumbnail>http://www.real.com/resources/wp-content/uploads/2013/05/streaming-MP41.jpg</thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/OffsideStreams/freeview/master/misclivetv.xml</link>
+</dir>

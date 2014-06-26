@@ -1,0 +1,24 @@
+<poster>OSS</poster>
+<fanart>https://raw.githubusercontent.com/OffsideStreams/freeview/master/offsidestreamsfanart.png</fanart>
+
+
+<item>
+<title>Sky Sports 1 - Free Streams Courtesy OF: http://www.offsidestreams.com/site/</title>
+<thumbnail>http://4.bp.blogspot.com/-ZId62tjZag8/ToUw5HlkNBI/AAAAAAAAAEA/U_Y25aBXw6c/s1600/sky_sports1.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://198.50.226.53/freeview/sky1hs.stream</link>
+</item>
+
+
+<item>
+<title>JIM TV</title>
+<thumbnail>http://static4.jim.vmmacdn.be//sites/jim.be/themes/jim/logo.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://rtmp.jim.stream.vmmacdn.be/vmma-jim-rtmplive-live/jim</link>
+</item>
+<item>
+<title>CBC HD 1080P - Free Streams Courtesy OF: http://www.offsidestreams.com/site/ </title>
+<thumbnail>http://4.bp.blogspot.com/-XX9238Xm8Oo/UsXaPNqLJhI/AAAAAAAABGU/laFcUjN9vhw/s1600/bein+sport+11HD.png</thumbnail>
+<fanart></fanart>
+<link>rtmp://198.50.226.53/freeview/synx_ctv.stream</link>
+</item>
