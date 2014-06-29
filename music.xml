@@ -36,7 +36,12 @@
 <link>rtmp://edge2.tikilive.com:1935/rtmp_tikilive/36220/mainstream</link>
 </item>
 
-
+</item>
+<title>Youtube Video</title>
+<thumbnail>http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2012/41/heart-tv-is-here-1349976697.jpg</thumbnail>
+<fanart></fanart>
+<link>https://www.youtube.com/watch?v=RBumgq5yVrA</link>
+</item>
 
 
 
